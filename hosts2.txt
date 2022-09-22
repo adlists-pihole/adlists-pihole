@@ -45,6 +45,5 @@
 0.0.0.0 onetag-sys.com
 0.0.0.0 pagead3.googlesyndication.com
 0.0.0.0 pagead4.googlesyndication.com
-0.0.0.0 youtube.com/s/desktop/7ecf63df/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js
 0.0.0.0 googleads.g.doubleclick.net/pagead/id
 0.0.0.0 lh3.googleusercontent.com
