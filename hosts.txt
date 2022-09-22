@@ -33,6 +33,7 @@ s0.2mdn.net
 sync.search.spotxchange.com
 match.adsrvr.org
 lax1-ib.adnxs.com
+youtu.be
 cdn.adnxs.com
 image6.pubmatic.com
 acdn.adnxs.com
