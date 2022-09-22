@@ -17,8 +17,8 @@
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 google.com/pagead
-0.0.0.0 youtube.com/pagead
+0.0.0.0 google.com/pagead/
+0.0.0.0 youtube.com/pagead/
 0.0.0.0 i.ytimg.co
 0.0.0.0 static.doubleclick.net
 0.0.0.0 youtube.com/ptracking
@@ -47,3 +47,4 @@
 0.0.0.0 pagead4.googlesyndication.com
 0.0.0.0 googleads.g.doubleclick.net/pagead/id
 0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 rr4---sn-n4v7snls.googlevideo.com
