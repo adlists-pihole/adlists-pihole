@@ -17,8 +17,8 @@ aa.agkn.com
 cdn.ampproject.org
 tpc.googlesyndication.com
 googleads.g.doubleclick.net
-google.com/pagead
-youtube.com/pagead
+google.com/pagead/
+youtube.com/pagead/
 i.ytimg.co
 static.doubleclick.net
 youtube.com/ptracking
@@ -48,3 +48,4 @@ pagead3.googlesyndication.com
 pagead4.googlesyndication.com
 googleads.g.doubleclick.net/pagead/id
 lh3.googleusercontent.com
+rr4---sn-n4v7snls.googlevideo.com
