@@ -51,4 +51,5 @@ lh3.googleusercontent.com
 manifest.googlevideo.com
 173.194.25.8
 172.217.13.174
-142.250.189.230
+142.250.189.230:443
+142.250.191.78:443
