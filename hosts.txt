@@ -46,3 +46,6 @@ g2.gumgum.com
 onetag-sys.com
 pagead3.googlesyndication.com
 pagead4.googlesyndication.com
+youtube.com/s/desktop/7ecf63df/jsbin/custom-elements-es5-adapter.vflset/custom-elements-es5-adapter.js
+googleads.g.doubleclick.net/pagead/id
+lh3.googleusercontent.com
