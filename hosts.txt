@@ -32,7 +32,6 @@ s0.2mdn.net
 sync.search.spotxchange.com
 match.adsrvr.org
 lax1-ib.adnxs.com
-youtu.be
 cdn.adnxs.com
 image6.pubmatic.com
 acdn.adnxs.com
@@ -51,5 +50,13 @@ lh3.googleusercontent.com
 manifest.googlevideo.com
 173.194.25.8
 172.217.13.174
-142.250.189.230:443
-142.250.191.78:443
+142.250.189.230
+142.250.191.78
+142.251.214.142
+142.250.189.162
+142.251.214.142
+173.194.25.10
+142.251.32.34
+142.250.191.34
+142.251.214.130
+74.125.166.40
